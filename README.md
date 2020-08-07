@@ -16,6 +16,8 @@
 
 ### Plataformas que utilizo para trabalhar:
 
+- **NodeJS**
+
 - **Visual Studio Code**
 
 - **Git, Github e Gitpod**
