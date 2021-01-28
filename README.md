@@ -1,20 +1,18 @@
 # Olá, tudo bem com você? :smiley: :hearts:
 
-### Curiosidades sobre minha pessoa:
+## Curiosidades sobre minha pessoa:
 
 - :school:  **UFC Quixadá** | Estudante de Sistemas da Informação.
 
 - :moneybag:  **Freelancer** | Trabalho nas horas vagas.
 
-- :man:  **Idade** | Tenho 18 anos.
+- :man:  **Idade** | Tenho 19 anos.
 
 - :snowman:  **Frio** | Adoro fazer QUALQUER coisa em ambientes frios, me deixa mais confortável.
 
 - :satisfied:  **Simpatia** | Sou uma pessoa bastante simpática, animada, otimista e sorridente.
 
-- :muscle:  **Musculação** | Prezo pela minha saúde e me exercito para manter a forma.
-
-### Plataformas que utilizo para trabalhar:
+## Ferramentas que utilizo para trabalhar:
 
 - **NodeJS**
 
@@ -28,7 +26,9 @@
 
 - **Google Chrome**
 
-### Tecnologias que trabalho:
+## Tecnologias que trabalho:
+
+- **NextJs**
 
 - **ReactJS**
 
@@ -59,6 +59,6 @@ Não sei kkk, é incerto mas se eu pudesse dizer e cumprir com 100% de confianç
 <hr>
 
 # Redes sociais
-#### Instagram: [@vroque379](https://www.instagram.com/vroque379/)
-#### Twitter: [@sydoafk](https://twitter.com/sydoafk)
-#### Linkedin: [@sydoafk](https://www.linkedin.com/in/sydoafk/)
+#### Instagram: [@sydo26dev](https://www.instagram.com/vroque379/)
+#### Twitter: [@sydo26](https://twitter.com/sydo26)
+#### Linkedin: [@sydo26](https://www.linkedin.com/in/sydo26/)
