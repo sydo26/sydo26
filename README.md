@@ -59,6 +59,6 @@ Não sei kkk, é incerto mas se eu pudesse dizer e cumprir com 100% de confianç
 <hr>
 
 # Redes sociais
-#### Instagram: [@sydo26dev](https://www.instagram.com/vroque379/)
+#### Instagram: [@sydo26dev](https://www.instagram.com/sydo26/)
 #### Twitter: [@sydo26](https://twitter.com/sydo26)
 #### Linkedin: [@sydo26](https://www.linkedin.com/in/sydo26/)
