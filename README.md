@@ -36,7 +36,7 @@
 
 - **Restful e GraphQL**
 
-- **NextJS**
+- **Prisma 2**
 
 - **Sass**
 
