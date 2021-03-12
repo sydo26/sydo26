@@ -45,7 +45,7 @@
 <hr>
 
 ## Arrependimentos
-Para resumir o meu maior arrependimento na minha área é não ter "utilizado" plataformas como Github e Linkedin de forma mais sábia desde o início **:cry:**. (Continuo não usando o Linkedin com frequência kkkkk)
+Para resumir o meu maior arrependimento na minha área é não ter "utilizado" plataformas como Github e Linkedin de forma mais sábia desde o início **:cry:**. *(Continuo não usando o Linkedin com frequência kkkkk)*
 
 ## Meta
 Quero dominar todas as tecnologias que irei trabalhar e ser reconhecido na área.
