@@ -9,11 +9,7 @@ Programmer and entrepreneur with a lot of market experience and a lot of creativ
 
 
 <ul>
-  <li>My birthday is on Christmas Eve ☃️.</li>
-
-  <li>I have 7 cats 🐈 and two dogs 🐩.</li>
-  
-  <li>My first job as a developer was when I was 14 years, today I'm 21 😄.</li>
+  <li>Today I'm 22 😄.</li>
   
   <li>Developing software is not my only experience 🧪.</li>
 </ul>
